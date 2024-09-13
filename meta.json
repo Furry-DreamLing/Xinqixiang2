@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+ {
+      "id": "2.2.0",
+      "releasedAt": 1726233843000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Furry-DreamLing/Xinqixiang2/releases/tag/2.2(beta1)"
+        }
+      },
+      "updateType": "major"
+    },
   ]
 }
