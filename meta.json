@@ -11,6 +11,16 @@
         }
       },
       "updateType": "major"
+    },
+{
+      "id": "2.2.1",
+      "releasedAt": 1726476171000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Furry-DreamLing/Xinqixiang2/releases/tag/2.2.1beta1"
+        }
+      },
+      "updateType": "major"
     }
   ]
 }
